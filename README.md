@@ -1,4 +1,4 @@
-# spark-streaming-kafka-project
+# Youtube-Airflow-ETL-Project
 
 This project aims to perform ETL(Extraction-Transformation-Load) on youtube data using a combination of Apache Airflow, Apache Spark, and MongoDB, Pyspark & Python.
 
